@@ -1,0 +1,33 @@
+title: naked Agility Learn. 
+description: Gain skills
+parent_title: naked Agility with Martin Hinshelwood
+parent_url: https://nkdagility.com
+
+website: https://nkdagility.com
+baseurl: /learn
+url: "https://nkdagility.com"
+source: ./src
+destination: ./_site
+
+include:
+ - "**/*.md"
+ - "*.md"
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-time-to-read
+  # - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-last-modified-at
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  auto_ids: true
+
+relative_links:
+  enabled:     true
+  collections: false

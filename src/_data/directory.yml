@@ -1,0 +1,16 @@
+- name: Agile Delivery Kit
+  description: A kickstart for organizations that build software in developing their ways of working.
+  type: business
+  catagories:
+   - Agile
+   - Kickstart
+  url: https://nkdagility.com/learn/agile-delivery-kit/
+  image_url: https://nkdagility.com/learn/agile-delivery-kit/assets/images/naked-agility-learn-agile-delivery-kit-1600x900.jpg
+- name: Azure DevOps Migration Tools
+  description: The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services.
+  type: technical
+  catagories:
+   - Azure DevOps
+   - Product Documentation
+  url: https://nkdagility.com/learn/azure-devops-migration-tools/
+  image_url: https://nkdagility.com/learn/azure-devops-migration-tools/assets/images/naked-agility-Learn-Azure-DevOps-Migration-Tools-1600x900.jpg
